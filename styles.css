@@ -156,7 +156,7 @@ nav{
 .shape3 {
     width: 30rem;
     height: 30rem;
-    right: -05rem;
+    right: 3rem;
     top: -5%;
     background-color: rgba(48, 228, 288, 0.52);
 }
@@ -283,6 +283,9 @@ nav{
     margin-bottom: 1.5rem;
 }
 
+.consult-image img {
+    width: 650px;
+}
 
 
 
